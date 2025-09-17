@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "State trong ReactJS",
+      "image": "https://citgroup.vn/wp-content/uploads/2024/02/tai-sao-lai-su-dung-reactjs.png",
+      "content": "Bài viết về state",
+      "status": "published",
+      "created_at": "2024-03-04"
+    },
+    {
+      "id": 2,
+      "title": "Tổng quan về ReactJS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZycXVzcW8HSdO4L95MkD9QGrKIm7OxfPOiw&s",
+      "content": "ReactJS cơ bản",
+      "status": "published",
+      "created_at": "2024-03-03"
+    }
+  ]
+}
