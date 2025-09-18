@@ -21,7 +21,6 @@ export default function PostForm({ mode = "create" as Mode }) {
                     message.error("Không tải được bài viết");
                 }
             } else {
-                // giá trị mặc định khi tạo mới
                 form.setFieldsValue({
                     title: "",
                     image: "",
