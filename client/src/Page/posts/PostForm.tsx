@@ -89,8 +89,6 @@ export default function PostForm({ mode = "create" as Mode }) {
                             ]}
                         />
                     </Form.Item>
-
-                    {/* Ẩn nhưng vẫn giữ giá trị ngày tạo */}
                     <Form.Item name="created_at" hidden>
                         <Input />
                     </Form.Item>
